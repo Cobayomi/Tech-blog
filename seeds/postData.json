@@ -1,0 +1,17 @@
+[
+{
+    "title": "Why is MVC so important",
+    "content": "MVC allows developers to maintain true separations of concerns and devising their code Models."
+},
+
+{
+    "title": "Authentication vs Authorazation",
+    "content": "Authentication means confirming your own identity, whereas authorizations means being allowed access to the system."
+},
+
+{
+    "title": "Object-Relational Mapping",
+    "content": "I have really loved learning about ORMs. It's really simplified the way I create queries in SQL! "
+}
+
+]
